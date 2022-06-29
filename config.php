@@ -1,7 +1,7 @@
 ﻿<?php
 $api_url="http://www.tmweasy.com/api_verify_slip.php";
-$tmweasy_user="";
-$tmweasy_password="";
+$tmweasy_user=""; //user tmweasy.com
+$tmweasy_password=""; //password tmweasy.com
 
 $account_name="นายขยัน รำรวย";//ชื่อบัญชีธนาคาร
 $account_no="0123456789";//เลขบัญชีธนาคา  ใส่เฉพาะตัวเลข
